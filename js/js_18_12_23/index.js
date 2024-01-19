@@ -1,4 +1,4 @@
-console.log(10 && 15 && "Hello");
+// console.log(10 && 15 && "Hello");
 
 /*
  * Напиши скрипт який перевірить входження 
@@ -29,11 +29,14 @@ console.log(10 && 15 && "Hello");
  * - Отримати доступ можуть тільки pro и vip
  */
 
-const sub = 'pro';
+// const sub = 'pro';
 
-// якщо користувач pro або користувач vip тоді є доступ
+// // якщо користувач pro або користувач vip тоді є доступ
 
-const canAccessContent = sub === "pro" || sub === "vip";
+// const canAccessContent = sub === "pro" || sub === "vip";
 
 
-console.log('Є доступ до контенту? ', canAccessContent);
+// console.log('Є доступ до контенту? ', canAccessContent);
+
+
+// Хибноподібне значення: false, 0 , "", null , undefined, NaN
