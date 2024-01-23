@@ -34,13 +34,13 @@ let message;
 //     }
 // }
 
-for(let i = 0; i < logins.length; i += 1){
-    if(){
-                message = `Користувач ${loginToFind} знайдено.`;
-                console.log(message);
-                break;
-            }
-            else{
-                message = `Користувач ${loginToFind} не знайдено.`
-                console.log(message);
-}
+// for(let i = 0; i < logins.length; i += 1){
+//     if(){
+//                 message = `Користувач ${loginToFind} знайдено.`;
+//                 console.log(message);
+//                 break;
+//             }
+//             else{
+//                 message = `Користувач ${loginToFind} не знайдено.`
+//                 console.log(message);
+// }
